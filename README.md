@@ -1,4 +1,4 @@
-# Magic Beans
+# Golden Egg
 
 *PT-Beanstalk Integration Proxy*
 
@@ -11,7 +11,7 @@ endpoint (http://www.pivotaltracker.com/services/v3/source\_commits).
 
 ## Source
 
-[github.com/nwp/magic-beans](https://github.com/nwp/magic-beans)
+[github.com/nwp/golden-egg](https://github.com/nwp/golden-egg)
 
 ## Installation
 
