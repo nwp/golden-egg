@@ -1,0 +1,10 @@
+{
+  "name": "pt-beanstalk-proxy",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "2.2.0",
+    "backbone": "0.5.3",
+    "underscore": "1.1.7",
+    "node-markdown": "0.1.0"
+  }
+}
