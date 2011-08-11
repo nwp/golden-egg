@@ -12,7 +12,7 @@ app.use(express.bodyParser());
 var README = markdown(fs.readFileSync('./README.md', 'utf8'), true);
 
 app.get('/', function(request, response) {
-  response.send('<html><head><title>Magic Beans</title></head><body>' + README + '</body></html>');
+  response.send('<html><head><title>Golden Egg</title></head><body>' + README + '</body></html>');
 });
 
 app.post('/commits/new/:token', function(request, response) {
