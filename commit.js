@@ -2,8 +2,8 @@ var Backbone = require('backbone'),
     _        = require('underscore')._,
     http     = require('http');
 
-var debug_log = function() { };
-//var debug_log = console.log;
+//var debug_log = function() { };
+var debug_log = console.log;
 
 // borrowed from Prototype.js
 function escapeHTML(html) {
